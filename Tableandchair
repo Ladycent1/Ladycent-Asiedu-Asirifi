@@ -1,0 +1,12 @@
+public class Tableandchair {
+  public static void main(String [] args){
+   system.out.println("x                         x");
+   system.out.println("x                         x");
+   system.out.println("x                         x");
+   system.out.println("xxxx  xxxxxxxxxxxxx    xxxx");
+   system.out.println("x  x  x           x    x  x");
+   system.out.println("x  x  x           x    x  x");
+   system.out.println("x  x  x           x    x  x");
+   system.out.println("x  x  x           x    x  x");
+   }
+   }
