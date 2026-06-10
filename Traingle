@@ -1,0 +1,12 @@
+public class Traingle{
+ public static void main(String [] args){
+
+   system.out.println("                        T");
+   system.out.println("                       TTT");
+   system.out.println("                      TTTTT");
+   system.out.println("                     TTTTTTT");
+   system.out.println("                    TTTTTTTTT");
+   system.out.println("                   TTTTTTTTTTT");
+   system.out.println("                    TTTTTTTTTTTTT");
+  }
+  }
